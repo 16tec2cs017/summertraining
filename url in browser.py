@@ -24,5 +24,6 @@ for i in search(web,stop=5):
 	#appending web address in the list url
     url.append(i)                           
     	#print the list
+print(url)	
 
 
